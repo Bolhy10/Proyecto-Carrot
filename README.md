@@ -2,6 +2,7 @@
 Sistema de Facturación e Inventario
 
 #Tablas de Sistema de Facturacion e Invetarios
+
 configuracion general
 configuracion de empresa
 sucursales
@@ -24,7 +25,6 @@ cuentas por cobrar
 relejar las transacciones
 
 inventarios
-
 tipo
 linea
 tipo de precio
